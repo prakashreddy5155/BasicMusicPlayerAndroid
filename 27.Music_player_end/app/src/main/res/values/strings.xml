@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MusicPlayerAdvanced</string>
+    <string name ="title_textview_name">Music Player</string>
+</resources>
